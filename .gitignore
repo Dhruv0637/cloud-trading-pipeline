@@ -1,0 +1,8 @@
+*.zip
+*.dist-info/
+__pycache__/
+pandas/
+numpy/
+alpaca/
+pydantic/
+urllib3/
